@@ -1,0 +1,7 @@
+username: "Teamlock"
+serverAddress: "wkkcush"
+filesToTrack:
+  - main.go
+  - test.txt
+  - config.yaml
+seconds: 16
